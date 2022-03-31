@@ -6,7 +6,7 @@ This was produced as part of an assignment for the 'CE223 - C Programming and Em
 
 The task was to develop a guessing game on the ARM Mbed, using the ARM Mbed development board that was provided. A picture of the development board is shown below:
 
-<img src="../images/../embedded-systems-guessing-game/images/board.jpg" width="350">
+<img src="images/board.jpg" width="350">
 
 The Mbed will interact with the host PC using serial communication via the RS232 protocol. And thus, a host terminal application is also developed (essentially a client-server model).  More details about the game are shown below
 - A difficulty setting for the game is entered using the first 3 switches (3 difficulty modes). The difficulty is set using the switches on the board.
@@ -19,7 +19,7 @@ The Mbed will interact with the host PC using serial communication via the RS232
 - If the player wins, the LEDs display 'Christmas lights'.
 - LCD screen displays status messages and whether the player loses or wins at the end of the game
 
-<img src="../embedded-systems-guessing-game/images/terminal.png" width="350">
+<img src="images/terminal.png" width="350">
 
 The image above shows the welcome screen on the terminal application, which is run on the host computer.
 
