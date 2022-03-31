@@ -78,7 +78,6 @@ char Keytable[][4] = {
     };
 //The above variable stores all the inputs from the mbeds keypad
 
-//This was borrowed from the Moodle Help forum, post made by Michal Borowski
 //This function is used to get a single character from the keypad
 char getKey() {
     int i,j;

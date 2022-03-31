@@ -1,2 +1,4 @@
-# embedded-systems-guessing-game
-Guessing game for the ARM Mbed for practicing Embedded Systems and serial communication
+# Embedded Systems Guessing Game
+
+This was produced as part of an assignment for the 'CE223 - C Programming and Embedded Systems' module at University of Essex.
+
