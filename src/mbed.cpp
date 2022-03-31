@@ -1,8 +1,5 @@
 /*
 Name: Akshay Gopinath
-Registration Number: 2005614
-Module: CE243 - C Programming with Embedded Systems
-Assignment Number: 2
 Code for the ARM Mbed
 */
 
