@@ -5,7 +5,7 @@ Code for the host computer
 
 /* ####################################################
 Compile using:
-gcc assignment2_final.c rs232.c -Wall -Wextra -o2 -o assignment2
+gcc pc-terminal.c rs232.c -Wall -Wextra -o2 -o pc-terminal
 ##################################################### */
 
 #include <stdlib.h>
